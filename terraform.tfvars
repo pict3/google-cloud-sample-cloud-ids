@@ -1,4 +1,4 @@
-  project_id = "clp-msp-cert-sample-10"
+  project_id = "your-project_id"
   labels     = {
     "environment" = "test"
     "team"        = "devops"
